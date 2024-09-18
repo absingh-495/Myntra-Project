@@ -153,4 +153,16 @@ text-align: center;
   margin-bottom: 25px;
 }
 
+.footer_column a{
+  color: #696b79;
+  font-size: 15px;
+  text-decoration: none;
+  padding-bottom: 5px;
  
+}
+
+.copyright{
+  color:#94969f ;
+  text-align: end;
+  padding: 15px;
+}
